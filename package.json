@@ -1,8 +1,8 @@
 {
   "name": "harmony-solid",
   "scripts": {
-    "dev": "solid-start dev",
-    "build": "solid-start build",
+    "dev": "netlify dev",
+    "build": "netlify build",
     "start": "solid-start start"
   },
   "type": "module",

@@ -28,7 +28,7 @@ export default function Root() {
         <Meta charset="utf-8" />
         <Meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head>
-      <Body>
+      <Body class="bg-slate-900 min-h-screen font-sans text-base text-gray-200">
         <Suspense>
           <ErrorBoundary>
             <nav class="bg-sky-800">
